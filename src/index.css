@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+
+@layer base {
+  body {
+    background-color: blue !importan; /* Sets the background color of the body to blue */
+  }
+}
+
+@tailwind utilities;
